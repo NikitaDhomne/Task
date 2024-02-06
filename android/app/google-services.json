@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10008284210",
+    "project_id": "bynry-task",
+    "storage_bucket": "bynry-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10008284210:android:bf315e58c75b8e8b66002b",
+        "android_client_info": {
+          "package_name": "com.example.bynry_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKd3QmSo3c1IHFgF48XX1h0S76OsbJBUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
